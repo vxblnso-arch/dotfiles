@@ -1,0 +1,24 @@
+[Default Applications]
+x-scheme-handler/http=userapp-Floorp-S8FIM3.desktop
+x-scheme-handler/https=userapp-Floorp-S8FIM3.desktop
+x-scheme-handler/chrome=userapp-Floorp-S8FIM3.desktop
+text/html=userapp-Floorp-S8FIM3.desktop
+application/x-extension-htm=userapp-Floorp-S8FIM3.desktop
+application/x-extension-html=userapp-Floorp-S8FIM3.desktop
+application/x-extension-shtml=userapp-Floorp-S8FIM3.desktop
+application/xhtml+xml=userapp-Floorp-S8FIM3.desktop
+application/x-extension-xhtml=userapp-Floorp-S8FIM3.desktop
+application/x-extension-xht=userapp-Floorp-S8FIM3.desktop
+x-scheme-handler/discord-1216669957799018608=discord-1216669957799018608.desktop
+
+[Added Associations]
+x-scheme-handler/http=userapp-Floorp-S8FIM3.desktop;
+x-scheme-handler/https=userapp-Floorp-S8FIM3.desktop;
+x-scheme-handler/chrome=userapp-Floorp-S8FIM3.desktop;
+text/html=userapp-Floorp-S8FIM3.desktop;
+application/x-extension-htm=userapp-Floorp-S8FIM3.desktop;
+application/x-extension-html=userapp-Floorp-S8FIM3.desktop;
+application/x-extension-shtml=userapp-Floorp-S8FIM3.desktop;
+application/xhtml+xml=userapp-Floorp-S8FIM3.desktop;
+application/x-extension-xhtml=userapp-Floorp-S8FIM3.desktop;
+application/x-extension-xht=userapp-Floorp-S8FIM3.desktop;
